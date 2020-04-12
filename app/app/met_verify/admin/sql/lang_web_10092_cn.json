@@ -1,0 +1,47 @@
+{
+    "app_real_name_verify": {
+        "name": "app_real_name_verify",
+        "value": "实名认证",
+        "site": "0",
+        "no_order": "0",
+        "array": "0",
+        "app": "10092",
+        "lang": "cn"
+    },
+    "app_real_name_verify_failed": {
+        "name": "app_real_name_verify_failed",
+        "value": "实名认证失败",
+        "site": "0",
+        "no_order": "0",
+        "array": "0",
+        "app": "10092",
+        "lang": "cn"
+    },
+    "app_real_verify_success": {
+        "name": "app_real_name_verify",
+        "value": "实名认证通过",
+        "site": "0",
+        "no_order": "0",
+        "array": "0",
+        "app": "10092",
+        "lang": "cn"
+    },
+    "app_real_id_failed": {
+        "name": "app_real_id_failed",
+        "value": "身份证号码验证失败",
+        "site": "0",
+        "no_order": "0",
+        "array": "0",
+        "app": "10092",
+        "lang": "cn"
+    },
+    "app_real_phone_failed": {
+        "name": "app_real_phone_failed",
+        "value": "手机号码验证失败",
+        "site": "0",
+        "no_order": "0",
+        "array": "0",
+        "app": "10092",
+        "lang": "cn"
+    }
+}
